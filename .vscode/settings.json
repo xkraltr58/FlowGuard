@@ -1,0 +1,8 @@
+{
+  "ros.distro": "humble",
+  "files.associations": {
+    "iostream": "cpp",
+    "ctime": "cpp",
+    "iomanip": "cpp"
+  }
+}

@@ -1,0 +1,9 @@
+build/
+*.o
+*.exe
+*.out
+*.log
+*.a
+*.so
+*.swp
+.DS_Store
