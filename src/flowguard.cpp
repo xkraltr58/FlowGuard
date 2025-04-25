@@ -121,7 +121,7 @@ void SerialComm::monitorTimeout() {
   const milliseconds TIMEOUT_MS(1000);
 
   while (monitoring_) {
-      std::this_thread::sleep_for(milliseconds(200));  // check every 200ms
+      std::this_thread::sleep_for(milliseconds(200)); // 200ms
 
       auto now = steady_clock::now();
       auto elapsed = duration_cast<milliseconds>(now - last_read_time_);
@@ -134,7 +134,7 @@ void SerialComm::monitorTimeout() {
 
 void SerialComm::reconnectIfNeeded() {
   if (!isOpen()) {
-      // Check if device path exists
+     
       if (access(port_name_.c_str(), F_OK) == 0) {
           flowguard::Logger::getInstance().log(LogLevel::INFO, "[FlowGuard] Device is available. Attempting to reconnect...");
           if (openPort()) {
