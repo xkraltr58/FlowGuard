@@ -37,10 +37,10 @@ int main() {
           std::string asciiStr(data.begin(), data.end());
           flowguard::Logger::getInstance().log(flowguard::LogLevel::INFO, "ASCII: " + asciiStr);
       } else {
-          comm.reconnectIfNeeded();  // 👈 only try reconnect when there's no data
+          comm.reconnectIfNeeded();  
       }
   
-      usleep(100000); // 👈 still keep your sleep
+      usleep(100000); 
   }
   
 
