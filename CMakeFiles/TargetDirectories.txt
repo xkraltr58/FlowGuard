@@ -1,2 +1,0 @@
-/home/naci/FlowGuard/CMakeFiles/edit_cache.dir
-/home/naci/FlowGuard/CMakeFiles/rebuild_cache.dir
