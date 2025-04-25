@@ -10,4 +10,5 @@ add_executable(flowguard
     src/flowguard.cpp
     src/logger.cpp
     src/utils.cpp
+    src/crc8.cpp
 )

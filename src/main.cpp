@@ -22,21 +22,27 @@ int main() {
 
     comm.makeNonBlocking();
 
+    comm.startTimeoutMonitor();
+
     while (true) {
       auto data = comm.readBytes(64);
+  
       if (!data.empty()) {
           std::cout << "[FlowGuard] Received: ";
           for (uint8_t byte : data) {
               std::cout << std::hex << std::setw(2) << std::setfill('0') << (int)byte << " ";
           }
           std::cout << std::endl;
+  
+          std::string asciiStr(data.begin(), data.end());
+          flowguard::Logger::getInstance().log(flowguard::LogLevel::INFO, "ASCII: " + asciiStr);
+      } else {
+          comm.reconnectIfNeeded();  // 👈 only try reconnect when there's no data
       }
-
-      std::string asciiStr(data.begin(), data.end());
-      flowguard::Logger::getInstance().log(flowguard::LogLevel::INFO, "ASCII: " + asciiStr);
-
-      
-    }
+  
+      usleep(100000); // 👈 still keep your sleep
+  }
+  
 
 
       usleep(100000); // 100ms
