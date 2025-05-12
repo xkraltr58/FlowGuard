@@ -9,7 +9,7 @@
 #include <sstream>
 #include <algorithm>  
 
-// Run the ML model script with the flow value
+// run ml
 std::string runMLModel(float flow_value) {
     std::ostringstream cmd;
     cmd << "python3 ml/ml_model.py " << flow_value;
@@ -28,7 +28,7 @@ std::string runMLModel(float flow_value) {
     return result;
 }
 
-// Try to extract float value from something like "FLOW:52.3"
+// extract float
 float parseFlowValueFrom(const std::string& str) {
     float value = 0.0;
     size_t pos = str.find("FLOW:");
