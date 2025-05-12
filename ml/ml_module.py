@@ -37,14 +37,14 @@ class FlowAnomalyDetector:
         result = self.model.predict([[flow_value]])  # 1 (inlier) -1 (outlier)
         return "consistent" if result[0] == 1 else "inconsistent"
 
-# Example usage:
+
 if __name__ == "__main__":
     detector = FlowAnomalyDetector()
 
     # Train from file (only once needed)
     # detector.train()
 
-    # Load and use
+    #
     detector.load()
     
     test_values = [48.5, 52.1, 120.0, 3.2]
