@@ -1,0 +1,22 @@
+{"timestamp":"2025-06-16 15:03:21","level":"INFO","message":"Logger initialized"}
+{"timestamp":"2025-06-16 15:03:21","level":"INFO","message":"[FlowGuard] Serial port opened successfully."}
+{"timestamp":"2025-06-16 15:03:21","level":"INFO","message":"[FlowGuard] Serial port configured and ready."}
+{"timestamp":"2025-06-16 15:03:23","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:03:23","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:03:23","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:23","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:24","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:24","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:24","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:24","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:24","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:25","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:25","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:26","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:03:27","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:03:27","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:03:27","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:03:28","level":"INFO","message":"{"flow_value":26.9455, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:03:28","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:29","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:03:29","level":"WARNING","message":"No valid flow found in data."}

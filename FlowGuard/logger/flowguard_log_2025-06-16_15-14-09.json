@@ -1,0 +1,129 @@
+{"timestamp":"2025-06-16 15:14:09","level":"INFO","message":"Logger initialized"}
+{"timestamp":"2025-06-16 15:14:09","level":"INFO","message":"[FlowGuard] Serial port opened successfully."}
+{"timestamp":"2025-06-16 15:14:09","level":"INFO","message":"[FlowGuard] Serial port configured and ready."}
+{"timestamp":"2025-06-16 15:14:10","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:10","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:11","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:12","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:12","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:12","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:12","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:13","level":"INFO","message":"{"flow_value":26.9271, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:14","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:14","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:14","level":"INFO","message":"{"flow_value":31.147, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:15","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:15","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:15","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:16","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:16","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:16","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:16","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:16","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:18","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:18","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:19","level":"INFO","message":"{"flow_value":30.1939, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:19","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:19","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:19","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:20","level":"INFO","message":"{"flow_value":27.0072, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:20","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:21","level":"INFO","message":"{"flow_value":27.7528, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:21","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:22","level":"INFO","message":"{"flow_value":30.6976, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:22","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:23","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:23","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:24","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:25","level":"INFO","message":"{"flow_value":25.2929, "status":"inconsistent", "confidence":0.4884}"}
+{"timestamp":"2025-06-16 15:14:26","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:26","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:26","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:27","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:27","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:27","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:28","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:28","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:28","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:28","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:29","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:29","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:29","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:29","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:31","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:31","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:31","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:31","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:31","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:31","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:32","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 15:14:33","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:33","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:33","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:33","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:34","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:34","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:34","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:34","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:34","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:35","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:35","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:35","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:35","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:35","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:36","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:36","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:36","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:36","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:36","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:37","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:37","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:37","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:37","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:37","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:38","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:38","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:38","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:38","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:38","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:39","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:39","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:39","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:39","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:39","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:40","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:40","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:40","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:40","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:40","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:41","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:41","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:41","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:41","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:41","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:42","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:42","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:42","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:42","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:42","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:43","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:43","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:43","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:43","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:43","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:44","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:44","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:44","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:44","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:44","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:45","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:45","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:45","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:45","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:45","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:46","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:46","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:46","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:46","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:46","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}
+{"timestamp":"2025-06-16 15:14:47","level":"WARNING","message":"[FlowGuard] No data received in the last 1000 ms"}

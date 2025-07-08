@@ -1,0 +1,8 @@
+{"timestamp":"2025-06-16 01:03:51","level":"INFO","message":"Logger initialized"}
+{"timestamp":"2025-06-16 01:03:51","level":"INFO","message":"[FlowGuard] Serial port opened successfully."}
+{"timestamp":"2025-06-16 01:03:51","level":"INFO","message":"[FlowGuard] Serial port configured and ready."}
+{"timestamp":"2025-06-16 01:03:51","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 01:03:52","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 01:03:52","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 01:03:52","level":"WARNING","message":"No valid flow found in data."}
+{"timestamp":"2025-06-16 01:03:52","level":"WARNING","message":"No valid flow found in data."}
